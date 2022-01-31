@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 470 226" enable-background="new 0 0 470 226" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+@font-face{font-family:'PTSerif-Bold';src:url("data:;base64,\
+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\\
+hQAa/4UAAQAP/9sAAQADAAEACwAP")}
+@font-face{font-family:'PTSerif-Regular';src:url("data:;base64,\
+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")}
+]]>
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-70" y="-498" width="596" height="842"/>
+		</defs>
+		<clipPath id="SVGID_00000106856377994606293290000000897840246586097289_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<rect x="-70" y="-498" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#FFFFFF" width="595.5" height="842.25"/>
+		
+			<rect x="2" y="-307.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#EB9999" width="63.75" height="41.25"/>
+		
+			<rect x="65.75" y="-307.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="41.25"/>
+		
+			<rect x="129.5" y="-307.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="41.25"/>
+		
+			<rect x="193.25" y="-307.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="76.5" height="41.25"/>
+		
+			<rect x="269.75" y="-307.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="51" height="41.25"/>
+		
+			<rect x="320.75" y="-307.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="41.25"/>
+		
+			<rect x="384.5" y="-307.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="84.75" height="41.25"/>
+		
+			<rect x="2" y="-266.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="30.75"/>
+		
+			<rect x="65.75" y="-266.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="129.5" y="-266.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="193.25" y="-266.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="76.5" height="30.75"/>
+		
+			<rect x="269.75" y="-266.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="51" height="30.75"/>
+		
+			<rect x="320.75" y="-266.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="384.5" y="-266.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30.75"/>
+		
+			<rect x="2" y="-235.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="30"/>
+		
+			<rect x="65.75" y="-235.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="129.5" y="-235.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="193.25" y="-235.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="76.5" height="30"/>
+		
+			<rect x="269.75" y="-235.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="51" height="30"/>
+		
+			<rect x="320.75" y="-235.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="384.5" y="-235.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30"/>
+		
+			<rect x="2" y="-205.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="65.75" y="-205.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="129.5" y="-205.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="193.25" y="-205.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="76.5" height="30.75"/>
+		
+			<rect x="269.75" y="-205.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="51" height="30.75"/>
+		
+			<rect x="320.75" y="-205.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="384.5" y="-205.92" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30.75"/>
+		
+			<rect x="2" y="-175.17" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="65.75" y="-175.17" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="129.5" y="-175.17" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="193.25" y="-175.17" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="76.5" height="30.75"/>
+		
+			<rect x="269.75" y="-175.17" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="51" height="30.75"/>
+		
+			<rect x="320.75" y="-175.17" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="384.5" y="-175.17" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30.75"/>
+		
+			<rect x="2" y="-144.42" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#A5C0E5" width="63.75" height="30.75"/>
+		
+			<rect x="65.75" y="-144.42" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="129.5" y="-144.42" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="193.25" y="-144.42" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="76.5" height="30.75"/>
+		
+			<rect x="269.75" y="-144.42" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="51" height="30.75"/>
+		
+			<rect x="320.75" y="-144.42" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="384.5" y="-144.42" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30.75"/>
+		
+			<rect x="2" y="-113.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#A5C0E5" width="63.75" height="30"/>
+		
+			<rect x="65.75" y="-113.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="129.5" y="-113.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="193.25" y="-113.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="76.5" height="30"/>
+		
+			<rect x="269.75" y="-113.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="51" height="30"/>
+		
+			<rect x="320.75" y="-113.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="384.5" y="-113.67" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30"/>
+		
+			<rect x="2" y="1.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#EB9999" width="63.75" height="41.25"/>
+		
+			<rect x="65.75" y="1.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="41.25"/>
+		
+			<rect x="129.5" y="1.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="41.25"/>
+		
+			<rect x="193.25" y="1.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="77.25" height="41.25"/>
+		
+			<rect x="270.5" y="1.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="50.25" height="41.25"/>
+		
+			<rect x="320.75" y="1.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="41.25"/>
+		
+			<rect x="384.5" y="1.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="84.75" height="41.25"/>
+		
+			<rect x="2" y="43.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="30.75"/>
+		
+			<rect x="65.75" y="43.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="129.5" y="43.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="193.25" y="43.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="77.25" height="30.75"/>
+		
+			<rect x="270.5" y="43.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="50.25" height="30.75"/>
+		
+			<rect x="320.75" y="43.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="384.5" y="43.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30.75"/>
+		
+			<rect x="2" y="73.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5CDCD" width="63.75" height="30"/>
+		
+			<rect x="65.75" y="73.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="129.5" y="73.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="193.25" y="73.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="77.25" height="30"/>
+		
+			<rect x="270.5" y="73.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="50.25" height="30"/>
+		
+			<rect x="320.75" y="73.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="384.5" y="73.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30"/>
+		
+			<rect x="2" y="103.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="65.75" y="103.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="129.5" y="103.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="193.25" y="103.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="77.25" height="30.75"/>
+		
+			<rect x="270.5" y="103.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="50.25" height="30.75"/>
+		
+			<rect x="320.75" y="103.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="384.5" y="103.83" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30.75"/>
+		
+			<rect x="2" y="134.58" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="65.75" y="134.58" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="129.5" y="134.58" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="193.25" y="134.58" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="77.25" height="30.75"/>
+		
+			<rect x="270.5" y="134.58" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="50.25" height="30.75"/>
+		
+			<rect x="320.75" y="134.58" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="384.5" y="134.58" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30.75"/>
+		
+			<rect x="2" y="165.33" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#9FC5E8" width="63.75" height="30.75"/>
+		
+			<rect x="65.75" y="165.33" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="129.5" y="165.33" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="193.25" y="165.33" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="77.25" height="30.75"/>
+		
+			<rect x="270.5" y="165.33" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="50.25" height="30.75"/>
+		
+			<rect x="320.75" y="165.33" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30.75"/>
+		
+			<rect x="384.5" y="165.33" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30.75"/>
+		
+			<rect x="2" y="196.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#9FC5E8" width="63.75" height="30"/>
+		
+			<rect x="65.75" y="196.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="129.5" y="196.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="193.25" y="196.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="77.25" height="30"/>
+		
+			<rect x="270.5" y="196.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="50.25" height="30"/>
+		
+			<rect x="320.75" y="196.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="63.75" height="30"/>
+		
+			<rect x="384.5" y="196.08" clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="#F5F4F5" width="84.75" height="30"/>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 2 -330.7646)" font-family="'PTSerif-Regular'" font-size="11px">V</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 9.5186 -330.7646)" font-family="'PTSerif-Regular'" font-size="11px">I</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 13.3882 -330.7646)" font-family="'PTSerif-Regular'" font-size="11px">Z</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 20.0933 -330.7646)" font-family="'PTSerif-Regular'" font-size="11px"> </text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 22.7642 -330.7646)" font-family="'PTSerif-Regular'" font-size="11px">2</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000123410347305730569900000001775155640334404499_" x="2.75" y="-307.17" width="62.25" height="25.08"/>
+			</defs>
+			<clipPath id="SVGID_00000106145805223641187900000010399148404379260345_">
+				<use xlink:href="#SVGID_00000123410347305730569900000001775155640334404499_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000106145805223641187900000010399148404379260345_)">
+				<text transform="matrix(1 0 0 1 16.1538 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">C</text>
+			</g>
+			<g clip-path="url(#SVGID_00000106145805223641187900000010399148404379260345_)">
+				<text transform="matrix(1 0 0 1 23.3208 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000106145805223641187900000010399148404379260345_)">
+				<text transform="matrix(1 0 0 1 26.9702 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+			<g clip-path="url(#SVGID_00000106145805223641187900000010399148404379260345_)">
+				<text transform="matrix(1 0 0 1 33.0928 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">s</text>
+			</g>
+			<g clip-path="url(#SVGID_00000106145805223641187900000010399148404379260345_)">
+				<text transform="matrix(1 0 0 1 38.061 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">s</text>
+			</g>
+			<g clip-path="url(#SVGID_00000106145805223641187900000010399148404379260345_)">
+				<text transform="matrix(1 0 0 1 43.0293 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000160153639070944535450000008065260217528036026_" x="66.5" y="-307.17" width="62.25" height="25.08"/>
+			</defs>
+			<clipPath id="SVGID_00000061454112931293938950000009209124050076331696_">
+				<use xlink:href="#SVGID_00000160153639070944535450000008065260217528036026_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000061454112931293938950000009209124050076331696_)">
+				<text transform="matrix(1 0 0 1 84.9014 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">U</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061454112931293938950000009209124050076331696_)">
+				<text transform="matrix(1 0 0 1 92.7607 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">t</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061454112931293938950000009209124050076331696_)">
+				<text transform="matrix(1 0 0 1 97.1465 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061454112931293938950000009209124050076331696_)">
+				<text transform="matrix(1 0 0 1 100.7964 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061454112931293938950000009209124050076331696_)">
+				<text transform="matrix(1 0 0 1 104.4458 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000059310964325662985940000014352887728980232892_" x="130.25" y="-307.17" width="62.25" height="25.08"/>
+			</defs>
+			<clipPath id="SVGID_00000034782425870127585740000007934659406521557900_">
+				<use xlink:href="#SVGID_00000059310964325662985940000014352887728980232892_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000034782425870127585740000007934659406521557900_)">
+				<text transform="matrix(1 0 0 1 143.9575 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">C</text>
+			</g>
+			<g clip-path="url(#SVGID_00000034782425870127585740000007934659406521557900_)">
+				<text transform="matrix(1 0 0 1 151.125 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">h</text>
+			</g>
+			<g clip-path="url(#SVGID_00000034782425870127585740000007934659406521557900_)">
+				<text transform="matrix(1 0 0 1 158.1597 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000034782425870127585740000007934659406521557900_)">
+				<text transform="matrix(1 0 0 1 161.8096 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+			<g clip-path="url(#SVGID_00000034782425870127585740000007934659406521557900_)">
+				<text transform="matrix(1 0 0 1 167.9321 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">r</text>
+			</g>
+			<g clip-path="url(#SVGID_00000034782425870127585740000007934659406521557900_)">
+				<text transform="matrix(1 0 0 1 172.6699 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000007403127921688409060000018054955719971726267_" x="194" y="-307.17" width="75" height="25.08"/>
+			</defs>
+			<clipPath id="SVGID_00000077282242647708561060000008297187384207490957_">
+				<use xlink:href="#SVGID_00000007403127921688409060000018054955719971726267_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 200.1392 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">I</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 204.2285 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">n</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 211.3076 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">f</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 215.2314 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">o</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 221.7607 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">r</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 226.4985 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">m</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 236.6553 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 242.7778 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">t</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 247.1641 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 250.8135 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">v</text>
+			</g>
+			<g clip-path="url(#SVGID_00000077282242647708561060000008297187384207490957_)">
+				<text transform="matrix(1 0 0 1 256.7383 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000143576359274622704050000005514134731384898698_" x="270.5" y="-307.17" width="49.5" height="25.08"/>
+			</defs>
+			<clipPath id="SVGID_00000046302973196757967660000015576944259145297298_">
+				<use xlink:href="#SVGID_00000143576359274622704050000005514134731384898698_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000046302973196757967660000015576944259145297298_)">
+				<text transform="matrix(1 0 0 1 282.021 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">B</text>
+			</g>
+			<g clip-path="url(#SVGID_00000046302973196757967660000015576944259145297298_)">
+				<text transform="matrix(1 0 0 1 289.1548 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+			<g clip-path="url(#SVGID_00000046302973196757967660000015576944259145297298_)">
+				<text transform="matrix(1 0 0 1 295.0576 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000046302973196757967660000015576944259145297298_)">
+				<text transform="matrix(1 0 0 1 298.707 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000046302973196757967660000015576944259145297298_)">
+				<text transform="matrix(1 0 0 1 302.3564 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000116206998497668231590000004627783131827086004_" x="321.5" y="-307.17" width="62.25" height="25.08"/>
+			</defs>
+			<clipPath id="SVGID_00000166648431289790289370000001965263341651076746_">
+				<use xlink:href="#SVGID_00000116206998497668231590000004627783131827086004_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 329.5635 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">I</text>
+			</g>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 333.6523 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">n</text>
+			</g>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 340.7314 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">t</text>
+			</g>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 345.1172 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">u</text>
+			</g>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 351.9546 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 355.6035 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">t</text>
+			</g>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 359.9897 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 363.6392 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">v</text>
+			</g>
+			<g clip-path="url(#SVGID_00000166648431289790289370000001965263341651076746_)">
+				<text transform="matrix(1 0 0 1 369.564 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000053538190071618032930000012083891193992280193_" x="385.25" y="-307.17" width="83.25" height="39.65"/>
+			</defs>
+			<clipPath id="SVGID_00000137093309799500259640000000660758637186893227_">
+				<use xlink:href="#SVGID_00000053538190071618032930000012083891193992280193_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 409.854 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">V</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 416.9541 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 423.0767 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 426.7266 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">o</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 433.2554 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">r</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 437.9932 -290.4922)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 394.8931 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">c</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 400.0488 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">o</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 406.5776 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">m</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 416.7344 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">p</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 423.4287 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 427.0781 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 432.9814 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">s</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 437.9497 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">s</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 442.9185 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 446.5674 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">v</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137093309799500259640000000660758637186893227_)">
+				<text transform="matrix(1 0 0 1 452.3271 -275.917)" font-family="'PTSerif-Bold'" font-size="11px">o</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000155860743117727448710000003053488287950695867_" x="2.75" y="-266.02" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000002381814646780025080000013723879919896825480_">
+				<use xlink:href="#SVGID_00000155860743117727448710000003053488287950695867_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000002381814646780025080000013723879919896825480_)">
+				<text transform="matrix(1 0 0 1 29.9219 -246.2251)" font-family="'PTSerif-Bold'" font-size="14px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000119081768255992456840000005587258934187257473_" x="66.5" y="-266.02" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000000198360430178800320000004414994110689426086_">
+				<use xlink:href="#SVGID_00000119081768255992456840000005587258934187257473_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000000198360430178800320000004414994110689426086_)">
+				<text transform="matrix(1 0 0 1 94.6958 -249.3418)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000147219667091140900130000004241400436287741065_" x="130.25" y="-266.02" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000181792235091460834020000016970615828805953414_">
+				<use xlink:href="#SVGID_00000147219667091140900130000004241400436287741065_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000181792235091460834020000016970615828805953414_)">
+				<text transform="matrix(1 0 0 1 158.4458 -249.3418)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000048464452707587787430000007052884725978008991_" x="194" y="-266.02" width="75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000043421377914833485400000008705432642396873891_">
+				<use xlink:href="#SVGID_00000048464452707587787430000007052884725978008991_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000043421377914833485400000008705432642396873891_)">
+				<text transform="matrix(1 0 0 1 228.5708 -249.3418)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000103242351631002255630000000402061903904736932_" x="270.5" y="-266.02" width="49.5" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000029757869672042389910000004234762161275563181_">
+				<use xlink:href="#SVGID_00000103242351631002255630000000402061903904736932_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000029757869672042389910000004234762161275563181_)">
+				<text transform="matrix(1 0 0 1 292.3208 -249.3418)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000024710930785086717810000004579502195825639556_" x="321.5" y="-266.02" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000003801229892841106720000018319525295235815352_">
+				<use xlink:href="#SVGID_00000024710930785086717810000004579502195825639556_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000003801229892841106720000018319525295235815352_)">
+				<text transform="matrix(1 0 0 1 349.6958 -249.3418)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000121981224801309750070000017338066272760545192_" x="385.25" y="-266.02" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000066508116807772438560000013906432942348075699_">
+				<use xlink:href="#SVGID_00000121981224801309750070000017338066272760545192_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000066508116807772438560000013906432942348075699_)">
+				<text transform="matrix(1 0 0 1 423.9458 -249.3418)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000063611573780203095690000004728867411444413870_" x="2.75" y="-235.47" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000148658065314716820470000002103154313664023443_">
+				<use xlink:href="#SVGID_00000063611573780203095690000004728867411444413870_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000148658065314716820470000002103154313664023443_)">
+				<text transform="matrix(1 0 0 1 29.9219 -215.6748)" font-family="'PTSerif-Bold'" font-size="14px">2</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000060022796760814251390000017600183882991196553_" x="66.5" y="-235.47" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000137123495179036225150000018086421837974110341_">
+				<use xlink:href="#SVGID_00000060022796760814251390000017600183882991196553_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000137123495179036225150000018086421837974110341_)">
+				<text transform="matrix(1 0 0 1 94.6958 -218.792)" font-family="'PTSerif-Regular'" font-size="11px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000119089874284670568400000003980544295891810237_" x="130.25" y="-235.47" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000062882793923558748610000006617152978241071523_">
+				<use xlink:href="#SVGID_00000119089874284670568400000003980544295891810237_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000062882793923558748610000006617152978241071523_)">
+				<text transform="matrix(1 0 0 1 158.4458 -218.792)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000052824161226119934710000008043056056569866892_" x="194" y="-235.47" width="75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000059993480012595859420000010777850483597362606_">
+				<use xlink:href="#SVGID_00000052824161226119934710000008043056056569866892_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000059993480012595859420000010777850483597362606_)">
+				<text transform="matrix(1 0 0 1 228.5708 -218.792)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000181767514980318614760000002502422710772069512_" x="270.5" y="-235.47" width="49.5" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000082336037462908042380000002835739048158497450_">
+				<use xlink:href="#SVGID_00000181767514980318614760000002502422710772069512_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000082336037462908042380000002835739048158497450_)">
+				<text transform="matrix(1 0 0 1 292.3208 -218.792)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000054988362458789752400000005856975333868042636_" x="321.5" y="-235.47" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000023244085176388867330000008596429068756084403_">
+				<use xlink:href="#SVGID_00000054988362458789752400000005856975333868042636_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000023244085176388867330000008596429068756084403_)">
+				<text transform="matrix(1 0 0 1 349.6958 -218.792)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000135671943675577880070000010120711739489152134_" x="385.25" y="-235.47" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000181780354694015698800000011687180341943251634_">
+				<use xlink:href="#SVGID_00000135671943675577880070000010120711739489152134_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000181780354694015698800000011687180341943251634_)">
+				<text transform="matrix(1 0 0 1 423.9458 -218.792)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000010999553296132010860000000082741287201979071_" x="2.75" y="-204.92" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000000209996739226057920000010488723768758733468_">
+				<use xlink:href="#SVGID_00000010999553296132010860000000082741287201979071_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000000209996739226057920000010488723768758733468_)">
+				<text transform="matrix(1 0 0 1 29.9219 -185.125)" font-family="'PTSerif-Bold'" font-size="14px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000123433504238978553110000017392931866836728484_" x="66.5" y="-204.92" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000025404916758835894290000018016842730168787846_">
+				<use xlink:href="#SVGID_00000123433504238978553110000017392931866836728484_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000025404916758835894290000018016842730168787846_)">
+				<text transform="matrix(1 0 0 1 94.6958 -188.2417)" font-family="'PTSerif-Regular'" font-size="11px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000041988875243872982180000006724244518451173524_" x="130.25" y="-204.92" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000031889887674481378430000009944572571847279289_">
+				<use xlink:href="#SVGID_00000041988875243872982180000006724244518451173524_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000031889887674481378430000009944572571847279289_)">
+				<text transform="matrix(1 0 0 1 158.4458 -188.2417)" font-family="'PTSerif-Regular'" font-size="11px">2</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000016753649827135073970000010339540121565581709_" x="194" y="-204.92" width="75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000094618397390706777570000016141705593265769865_">
+				<use xlink:href="#SVGID_00000016753649827135073970000010339540121565581709_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000094618397390706777570000016141705593265769865_)">
+				<text transform="matrix(1 0 0 1 228.5708 -188.2417)" font-family="'PTSerif-Regular'" font-size="11px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000114069431385774086490000015592048909932575107_" x="270.5" y="-204.92" width="49.5" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000098941027827341373480000011273434896009066408_">
+				<use xlink:href="#SVGID_00000114069431385774086490000015592048909932575107_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000098941027827341373480000011273434896009066408_)">
+				<text transform="matrix(1 0 0 1 292.3208 -188.2417)" font-family="'PTSerif-Regular'" font-size="11px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000166646143643772652540000017890656374932938140_" x="321.5" y="-204.92" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000060028215867150696060000009793540994282592671_">
+				<use xlink:href="#SVGID_00000166646143643772652540000017890656374932938140_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000060028215867150696060000009793540994282592671_)">
+				<text transform="matrix(1 0 0 1 349.6958 -188.2417)" font-family="'PTSerif-Regular'" font-size="11px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000180333354523442199100000001694865023579823546_" x="385.25" y="-204.92" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000096771294034021355570000015229528403002792841_">
+				<use xlink:href="#SVGID_00000180333354523442199100000001694865023579823546_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000096771294034021355570000015229528403002792841_)">
+				<text transform="matrix(1 0 0 1 423.9458 -188.2417)" font-family="'PTSerif-Regular'" font-size="11px">2</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000073709006207909445320000018187109401913165212_" x="2.75" y="-174.37" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000057141763290089496560000011353228920460679834_">
+				<use xlink:href="#SVGID_00000073709006207909445320000018187109401913165212_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000057141763290089496560000011353228920460679834_)">
+				<text transform="matrix(1 0 0 1 29.9219 -154.5752)" font-family="'PTSerif-Bold'" font-size="14px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000036930378154848828910000010253316707539339678_" x="66.5" y="-174.37" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000066480317950194046130000010274827153179720895_">
+				<use xlink:href="#SVGID_00000036930378154848828910000010253316707539339678_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000066480317950194046130000010274827153179720895_)">
+				<text transform="matrix(1 0 0 1 94.6958 -157.6924)" font-family="'PTSerif-Regular'" font-size="11px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000144327584379857128110000001681139503350874029_" x="130.25" y="-174.37" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000114762462826399587930000016742202051300426902_">
+				<use xlink:href="#SVGID_00000144327584379857128110000001681139503350874029_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000114762462826399587930000016742202051300426902_)">
+				<text transform="matrix(1 0 0 1 158.4458 -157.6924)" font-family="'PTSerif-Regular'" font-size="11px">6</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000062873112235511743670000001462703796869356182_" x="194" y="-174.37" width="75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000024711020239441406310000000433640350137631634_">
+				<use xlink:href="#SVGID_00000062873112235511743670000001462703796869356182_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000024711020239441406310000000433640350137631634_)">
+				<text transform="matrix(1 0 0 1 228.5708 -157.6924)" font-family="'PTSerif-Regular'" font-size="11px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000084524101131607731410000000850955327897634488_" x="270.5" y="-174.37" width="49.5" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000127731127334397024510000004247831450679209356_">
+				<use xlink:href="#SVGID_00000084524101131607731410000000850955327897634488_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000127731127334397024510000004247831450679209356_)">
+				<text transform="matrix(1 0 0 1 292.3208 -157.6924)" font-family="'PTSerif-Regular'" font-size="11px">7</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000054975170603372330030000015906220865154522540_" x="321.5" y="-174.37" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000183948230331604477230000005661857908759873932_">
+				<use xlink:href="#SVGID_00000054975170603372330030000015906220865154522540_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000183948230331604477230000005661857908759873932_)">
+				<text transform="matrix(1 0 0 1 349.6958 -157.6924)" font-family="'PTSerif-Regular'" font-size="11px">6</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000065783556159233815140000003028665549166189976_" x="385.25" y="-174.37" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000163032237457581280020000015695828126572546233_">
+				<use xlink:href="#SVGID_00000065783556159233815140000003028665549166189976_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000163032237457581280020000015695828126572546233_)">
+				<text transform="matrix(1 0 0 1 423.9458 -157.6924)" font-family="'PTSerif-Regular'" font-size="11px">7</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000121268504115726510990000004014757320252446133_" x="2.75" y="-143.82" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000098204121381241662920000009025081476908618174_">
+				<use xlink:href="#SVGID_00000121268504115726510990000004014757320252446133_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000098204121381241662920000009025081476908618174_)">
+				<text transform="matrix(1 0 0 1 29.9219 -124.0254)" font-family="'PTSerif-Bold'" font-size="14px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000009592026982318612000000016652835089126706365_" x="66.5" y="-143.82" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000045604649958095365610000006743991604586486918_">
+				<use xlink:href="#SVGID_00000009592026982318612000000016652835089126706365_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000045604649958095365610000006743991604586486918_)">
+				<text transform="matrix(1 0 0 1 91.7661 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+			<g clip-path="url(#SVGID_00000045604649958095365610000006743991604586486918_)">
+				<text transform="matrix(1 0 0 1 97.625 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000098216497602327087600000007349482520120312218_" x="130.25" y="-143.82" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000125568112592453208570000005652600694170979505_">
+				<use xlink:href="#SVGID_00000098216497602327087600000007349482520120312218_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000125568112592453208570000005652600694170979505_)">
+				<text transform="matrix(1 0 0 1 158.4458 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">9</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000060019130410765641600000004360854700575734174_" x="194" y="-143.82" width="75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000088132473836665959370000015279436737638119079_">
+				<use xlink:href="#SVGID_00000060019130410765641600000004360854700575734174_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000088132473836665959370000015279436737638119079_)">
+				<text transform="matrix(1 0 0 1 225.6411 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088132473836665959370000015279436737638119079_)">
+				<text transform="matrix(1 0 0 1 231.5 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">2</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000122710364636051651910000006421042358673601454_" x="270.5" y="-143.82" width="49.5" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000132802490724960523360000003438214336999245243_">
+				<use xlink:href="#SVGID_00000122710364636051651910000006421042358673601454_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000132802490724960523360000003438214336999245243_)">
+				<text transform="matrix(1 0 0 1 292.3208 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">7</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000103987586403552759460000010418368614904834999_" x="321.5" y="-143.82" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000143578980626480235080000018296731277715344775_">
+				<use xlink:href="#SVGID_00000103987586403552759460000010418368614904834999_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000143578980626480235080000018296731277715344775_)">
+				<text transform="matrix(1 0 0 1 346.7661 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+			<g clip-path="url(#SVGID_00000143578980626480235080000018296731277715344775_)">
+				<text transform="matrix(1 0 0 1 352.625 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000047039729345974223460000002110770367014468769_" x="385.25" y="-143.82" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000137813709691702482570000016342258971555527864_">
+				<use xlink:href="#SVGID_00000047039729345974223460000002110770367014468769_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000137813709691702482570000016342258971555527864_)">
+				<text transform="matrix(1 0 0 1 421.0161 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+			<g clip-path="url(#SVGID_00000137813709691702482570000016342258971555527864_)">
+				<text transform="matrix(1 0 0 1 426.875 -127.1421)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000071525039585911896500000016007983925950465929_" x="2.75" y="-113.27" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000145040459035159029340000011760026669174372014_">
+				<use xlink:href="#SVGID_00000071525039585911896500000016007983925950465929_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000145040459035159029340000011760026669174372014_)">
+				<text transform="matrix(1 0 0 1 29.9219 -93.4751)" font-family="'PTSerif-Bold'" font-size="14px">6</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000077287924629515516250000000763467243619296923_" x="66.5" y="-113.27" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000150061726096870272710000000774413593364498362_">
+				<use xlink:href="#SVGID_00000077287924629515516250000000763467243619296923_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000150061726096870272710000000774413593364498362_)">
+				<text transform="matrix(1 0 0 1 94.6958 -96.5918)" font-family="'PTSerif-Regular'" font-size="11px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000132792959723267823300000007054969123020700606_" x="130.25" y="-113.27" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000116194429992481825430000004999221776565346703_">
+				<use xlink:href="#SVGID_00000132792959723267823300000007054969123020700606_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000116194429992481825430000004999221776565346703_)">
+				<text transform="matrix(1 0 0 1 158.4458 -96.5918)" font-family="'PTSerif-Regular'" font-size="11px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000093139124821738736770000004878879130319945374_" x="194" y="-113.27" width="75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000114035888137740906360000016540646447302064013_">
+				<use xlink:href="#SVGID_00000093139124821738736770000004878879130319945374_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000114035888137740906360000016540646447302064013_)">
+				<text transform="matrix(1 0 0 1 228.5708 -96.5918)" font-family="'PTSerif-Regular'" font-size="11px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000178927996788732326570000003045180368365604287_" x="270.5" y="-113.27" width="49.5" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000109720477364102958260000002944066949588489395_">
+				<use xlink:href="#SVGID_00000178927996788732326570000003045180368365604287_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000109720477364102958260000002944066949588489395_)">
+				<text transform="matrix(1 0 0 1 292.3208 -96.5918)" font-family="'PTSerif-Regular'" font-size="11px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000005227171479073234090000017876066685665050287_" x="321.5" y="-113.27" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000047027627035423623090000014811635321310881448_">
+				<use xlink:href="#SVGID_00000005227171479073234090000017876066685665050287_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000047027627035423623090000014811635321310881448_)">
+				<text transform="matrix(1 0 0 1 349.6958 -96.5918)" font-family="'PTSerif-Regular'" font-size="11px">2</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000159433475293856691500000008412980078008712577_" x="385.25" y="-113.27" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000049179824865119755470000003229490177803050883_">
+				<use xlink:href="#SVGID_00000159433475293856691500000008412980078008712577_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000049179824865119755470000003229490177803050883_)">
+				<text transform="matrix(1 0 0 1 423.9458 -96.5918)" font-family="'PTSerif-Regular'" font-size="11px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 2 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">C</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 8.8149 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">O</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 16.9492 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">R</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 23.9512 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">R</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 30.9531 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">E</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 37.3506 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">L</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 43.1216 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">O</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 51.2559 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">G</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 58.8184 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">R</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 65.8203 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">A</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 73.3281 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">M</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 82.8584 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">M</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<text transform="matrix(1 0 0 1 92.3887 -37.7695)" font-family="'PTSerif-Regular'" font-size="11px">A</text>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000086680119348010552200000010105906832935490738_" x="2.75" y="2.58" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000122703490389236272090000012610575001216968626_">
+				<use xlink:href="#SVGID_00000086680119348010552200000010105906832935490738_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000122703490389236272090000012610575001216968626_)">
+				<text transform="matrix(1 0 0 1 16.1538 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">C</text>
+			</g>
+			<g clip-path="url(#SVGID_00000122703490389236272090000012610575001216968626_)">
+				<text transform="matrix(1 0 0 1 23.3208 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000122703490389236272090000012610575001216968626_)">
+				<text transform="matrix(1 0 0 1 26.9702 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+			<g clip-path="url(#SVGID_00000122703490389236272090000012610575001216968626_)">
+				<text transform="matrix(1 0 0 1 33.0928 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">s</text>
+			</g>
+			<g clip-path="url(#SVGID_00000122703490389236272090000012610575001216968626_)">
+				<text transform="matrix(1 0 0 1 38.061 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">s</text>
+			</g>
+			<g clip-path="url(#SVGID_00000122703490389236272090000012610575001216968626_)">
+				<text transform="matrix(1 0 0 1 43.0293 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000171712195858785023260000015616773022150303380_" x="66.5" y="2.58" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000044166269333015727470000007979865570205195454_">
+				<use xlink:href="#SVGID_00000171712195858785023260000015616773022150303380_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000044166269333015727470000007979865570205195454_)">
+				<text transform="matrix(1 0 0 1 84.9014 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">U</text>
+			</g>
+			<g clip-path="url(#SVGID_00000044166269333015727470000007979865570205195454_)">
+				<text transform="matrix(1 0 0 1 92.7607 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">t</text>
+			</g>
+			<g clip-path="url(#SVGID_00000044166269333015727470000007979865570205195454_)">
+				<text transform="matrix(1 0 0 1 97.1465 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000044166269333015727470000007979865570205195454_)">
+				<text transform="matrix(1 0 0 1 100.7964 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000044166269333015727470000007979865570205195454_)">
+				<text transform="matrix(1 0 0 1 104.4458 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000072262719415210143450000012935453220369119628_" x="130.25" y="2.58" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000061439650131546198490000003675190546693068973_">
+				<use xlink:href="#SVGID_00000072262719415210143450000012935453220369119628_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000061439650131546198490000003675190546693068973_)">
+				<text transform="matrix(1 0 0 1 143.9575 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">C</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061439650131546198490000003675190546693068973_)">
+				<text transform="matrix(1 0 0 1 151.125 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">h</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061439650131546198490000003675190546693068973_)">
+				<text transform="matrix(1 0 0 1 158.1597 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061439650131546198490000003675190546693068973_)">
+				<text transform="matrix(1 0 0 1 161.8096 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061439650131546198490000003675190546693068973_)">
+				<text transform="matrix(1 0 0 1 167.9321 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">r</text>
+			</g>
+			<g clip-path="url(#SVGID_00000061439650131546198490000003675190546693068973_)">
+				<text transform="matrix(1 0 0 1 172.6699 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000152979113231262978960000005208957690872842923_" x="194" y="2.58" width="75.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000088814666991613021780000007798967548617308578_">
+				<use xlink:href="#SVGID_00000152979113231262978960000005208957690872842923_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 200.5142 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">I</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 204.6035 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">n</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 211.6826 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">f</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 215.6064 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">o</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 222.1357 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">r</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 226.8735 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">m</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 237.0303 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 243.1528 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">t</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 247.5391 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 251.1885 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">v</text>
+			</g>
+			<g clip-path="url(#SVGID_00000088814666991613021780000007798967548617308578_)">
+				<text transform="matrix(1 0 0 1 257.1133 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000105412123763036598240000017576178602335096192_" x="271.25" y="2.58" width="48.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000131350148473583786310000015636073364765054135_">
+				<use xlink:href="#SVGID_00000105412123763036598240000017576178602335096192_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000131350148473583786310000015636073364765054135_)">
+				<text transform="matrix(1 0 0 1 282.396 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">B</text>
+			</g>
+			<g clip-path="url(#SVGID_00000131350148473583786310000015636073364765054135_)">
+				<text transform="matrix(1 0 0 1 289.5298 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+			<g clip-path="url(#SVGID_00000131350148473583786310000015636073364765054135_)">
+				<text transform="matrix(1 0 0 1 295.4326 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000131350148473583786310000015636073364765054135_)">
+				<text transform="matrix(1 0 0 1 299.082 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000131350148473583786310000015636073364765054135_)">
+				<text transform="matrix(1 0 0 1 302.7314 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000091711814343113783410000005770288233155901327_" x="321.5" y="2.58" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000142156419777058152620000002070346285746026665_">
+				<use xlink:href="#SVGID_00000091711814343113783410000005770288233155901327_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 329.5635 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">I</text>
+			</g>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 333.6523 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">n</text>
+			</g>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 340.7314 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">t</text>
+			</g>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 345.1172 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">u</text>
+			</g>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 351.9546 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 355.6035 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">t</text>
+			</g>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 359.9897 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 363.6392 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">v</text>
+			</g>
+			<g clip-path="url(#SVGID_00000142156419777058152620000002070346285746026665_)">
+				<text transform="matrix(1 0 0 1 369.564 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000023251138688988336710000005973462647520305024_" x="385.25" y="2.58" width="83.25" height="39.65"/>
+			</defs>
+			<clipPath id="SVGID_00000009575247100805533070000007006387572481865101_">
+				<use xlink:href="#SVGID_00000023251138688988336710000005973462647520305024_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 409.854 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">V</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 416.9541 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">a</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 423.0767 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 426.7266 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">o</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 433.2554 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">r</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 437.9932 19.2637)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 394.8931 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">c</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 400.0488 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">o</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 406.5776 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">m</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 416.7344 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">p</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 423.4287 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">l</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 427.0781 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">e</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 432.9814 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">s</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 437.9497 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">s</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 442.9185 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">i</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 446.5674 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">v</text>
+			</g>
+			<g clip-path="url(#SVGID_00000009575247100805533070000007006387572481865101_)">
+				<text transform="matrix(1 0 0 1 452.3271 33.8389)" font-family="'PTSerif-Bold'" font-size="11px">o</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000098208393991280060020000015937378884900250779_" x="2.75" y="43.74" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000179629520229305293970000001433851721735942827_">
+				<use xlink:href="#SVGID_00000098208393991280060020000015937378884900250779_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000179629520229305293970000001433851721735942827_)">
+				<text transform="matrix(1 0 0 1 29.9219 63.5312)" font-family="'PTSerif-Bold'" font-size="14px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000087382097365126990140000004871255333161460122_" x="66.5" y="43.74" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000176011432800097044380000013027890241600589487_">
+				<use xlink:href="#SVGID_00000087382097365126990140000004871255333161460122_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000176011432800097044380000013027890241600589487_)">
+				<text transform="matrix(1 0 0 1 94.6958 60.4141)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000002376570456519505810000006128594962710860422_" x="130.25" y="43.74" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000007402961213017141570000009860781315400260269_">
+				<use xlink:href="#SVGID_00000002376570456519505810000006128594962710860422_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000007402961213017141570000009860781315400260269_)">
+				<text transform="matrix(1 0 0 1 158.4458 60.4141)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000183940988623235488960000004629935636036915851_" x="194" y="43.74" width="75.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000143589021050922123530000001964373932655888013_">
+				<use xlink:href="#SVGID_00000183940988623235488960000004629935636036915851_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000143589021050922123530000001964373932655888013_)">
+				<text transform="matrix(1 0 0 1 228.9458 60.4141)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000112632671877670521340000010735987598906240653_" x="271.25" y="43.74" width="48.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000129894018265383841120000014942021570324225726_">
+				<use xlink:href="#SVGID_00000112632671877670521340000010735987598906240653_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000129894018265383841120000014942021570324225726_)">
+				<text transform="matrix(1 0 0 1 292.6958 60.4141)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000168076052165036670680000002136853149800095930_" x="321.5" y="43.74" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000065789246788141152290000012235284161976342187_">
+				<use xlink:href="#SVGID_00000168076052165036670680000002136853149800095930_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000065789246788141152290000012235284161976342187_)">
+				<text transform="matrix(1 0 0 1 349.6958 60.4141)" font-family="'PTSerif-Regular'" font-size="11px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000025416900706022248050000003914588173068689084_" x="385.25" y="43.74" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000003798289220790691520000008916794250083960972_">
+				<use xlink:href="#SVGID_00000025416900706022248050000003914588173068689084_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000003798289220790691520000008916794250083960972_)">
+				<text transform="matrix(1 0 0 1 423.9458 60.4141)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000097462462670897280680000007927999324623053227_" x="2.75" y="74.29" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000183219163622409859310000000463484819947804556_">
+				<use xlink:href="#SVGID_00000097462462670897280680000007927999324623053227_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000183219163622409859310000000463484819947804556_)">
+				<text transform="matrix(1 0 0 1 29.9219 94.0811)" font-family="'PTSerif-Bold'" font-size="14px">2</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000120529901207996452110000012696948121143103621_" x="66.5" y="74.29" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000145777869836213704170000005707705661738197158_">
+				<use xlink:href="#SVGID_00000120529901207996452110000012696948121143103621_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000145777869836213704170000005707705661738197158_)">
+				<text transform="matrix(1 0 0 1 94.6958 90.9648)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000085945575305219414230000003912462098925819797_" x="130.25" y="74.29" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000090999022201698554880000015479321291455762877_">
+				<use xlink:href="#SVGID_00000085945575305219414230000003912462098925819797_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000090999022201698554880000015479321291455762877_)">
+				<text transform="matrix(1 0 0 1 158.4458 90.9648)" font-family="'PTSerif-Regular'" font-size="11px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000100381354228877202450000008085534014793959071_" x="194" y="74.29" width="75.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000001656804755934977530000007562914492099452553_">
+				<use xlink:href="#SVGID_00000100381354228877202450000008085534014793959071_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000001656804755934977530000007562914492099452553_)">
+				<text transform="matrix(1 0 0 1 228.9458 90.9648)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000051345281352816749450000013774463738513781170_" x="271.25" y="74.29" width="48.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000005252418409884108230000002585661974498350987_">
+				<use xlink:href="#SVGID_00000051345281352816749450000013774463738513781170_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000005252418409884108230000002585661974498350987_)">
+				<text transform="matrix(1 0 0 1 292.6958 90.9648)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000018229156369655237750000015435861174721131396_" x="321.5" y="74.29" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000134956124661308087080000017782170612207056803_">
+				<use xlink:href="#SVGID_00000018229156369655237750000015435861174721131396_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000134956124661308087080000017782170612207056803_)">
+				<text transform="matrix(1 0 0 1 349.6958 90.9648)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000104678505240952965200000006649262200219582625_" x="385.25" y="74.29" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000141441267243685362830000018259229372416984978_">
+				<use xlink:href="#SVGID_00000104678505240952965200000006649262200219582625_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000141441267243685362830000018259229372416984978_)">
+				<text transform="matrix(1 0 0 1 423.9458 90.9648)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000009575736185380650000000005747755879655950013_" x="2.75" y="104.83" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000079463319441429327440000018048316081016152718_">
+				<use xlink:href="#SVGID_00000009575736185380650000000005747755879655950013_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000079463319441429327440000018048316081016152718_)">
+				<text transform="matrix(1 0 0 1 29.9219 124.6309)" font-family="'PTSerif-Bold'" font-size="14px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000102516025859354699710000011898482550527635370_" x="66.5" y="104.83" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000165213073694374540550000003283487084860057751_">
+				<use xlink:href="#SVGID_00000102516025859354699710000011898482550527635370_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000165213073694374540550000003283487084860057751_)">
+				<text transform="matrix(1 0 0 1 94.6958 121.5146)" font-family="'PTSerif-Regular'" font-size="11px">2</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000140735770760914581810000017013157564914186382_" x="130.25" y="104.83" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000136382072676844777610000007309131007091422644_">
+				<use xlink:href="#SVGID_00000140735770760914581810000017013157564914186382_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000136382072676844777610000007309131007091422644_)">
+				<text transform="matrix(1 0 0 1 158.4458 121.5146)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000003087964664004956270000017888300026970821544_" x="194" y="104.83" width="75.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000096042472214225953730000011145428986902179002_">
+				<use xlink:href="#SVGID_00000003087964664004956270000017888300026970821544_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000096042472214225953730000011145428986902179002_)">
+				<text transform="matrix(1 0 0 1 228.9458 121.5146)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000008853302617962917100000012780058132071547276_" x="271.25" y="104.83" width="48.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000168074614731725072660000014598426329267907250_">
+				<use xlink:href="#SVGID_00000008853302617962917100000012780058132071547276_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000168074614731725072660000014598426329267907250_)">
+				<text transform="matrix(1 0 0 1 292.6958 121.5146)" font-family="'PTSerif-Regular'" font-size="11px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000081611421618520774410000013074806339720916411_" x="321.5" y="104.83" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000008859880973046124470000017361595286295466683_">
+				<use xlink:href="#SVGID_00000081611421618520774410000013074806339720916411_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000008859880973046124470000017361595286295466683_)">
+				<text transform="matrix(1 0 0 1 349.6958 121.5146)" font-family="'PTSerif-Regular'" font-size="11px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000142139645291525885740000002210964286857817223_" x="385.25" y="104.83" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000158715662492052117690000009346065089676022915_">
+				<use xlink:href="#SVGID_00000142139645291525885740000002210964286857817223_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000158715662492052117690000009346065089676022915_)">
+				<text transform="matrix(1 0 0 1 423.9458 121.5146)" font-family="'PTSerif-Regular'" font-size="11px">2</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000072961305392494712240000007769350754508730767_" x="2.75" y="135.38" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000070078850396115699780000003862830180669240484_">
+				<use xlink:href="#SVGID_00000072961305392494712240000007769350754508730767_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000070078850396115699780000003862830180669240484_)">
+				<text transform="matrix(1 0 0 1 29.9219 155.1807)" font-family="'PTSerif-Bold'" font-size="14px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000120546996995453843260000010725313384003983763_" x="66.5" y="135.38" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000020398327268487852640000012047994879803113903_">
+				<use xlink:href="#SVGID_00000120546996995453843260000010725313384003983763_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000020398327268487852640000012047994879803113903_)">
+				<text transform="matrix(1 0 0 1 94.6958 152.0645)" font-family="'PTSerif-Regular'" font-size="11px">8</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000039827750131596230110000013662059980993818005_" x="130.25" y="135.38" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000143575782217906263650000008750517413857814437_">
+				<use xlink:href="#SVGID_00000039827750131596230110000013662059980993818005_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000143575782217906263650000008750517413857814437_)">
+				<text transform="matrix(1 0 0 1 158.4458 152.0645)" font-family="'PTSerif-Regular'" font-size="11px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000054978966513935672770000016868094368716561081_" x="194" y="135.38" width="75.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000041985011879005943640000017219477310734192308_">
+				<use xlink:href="#SVGID_00000054978966513935672770000016868094368716561081_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000041985011879005943640000017219477310734192308_)">
+				<text transform="matrix(1 0 0 1 228.9458 152.0645)" font-family="'PTSerif-Regular'" font-size="11px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000121988923354120572220000009871239947361512874_" x="271.25" y="135.38" width="48.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000113349002640144893450000017726904237228671669_">
+				<use xlink:href="#SVGID_00000121988923354120572220000009871239947361512874_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000113349002640144893450000017726904237228671669_)">
+				<text transform="matrix(1 0 0 1 292.6958 152.0645)" font-family="'PTSerif-Regular'" font-size="11px">6</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000146490144706018774200000014210287336019266749_" x="321.5" y="135.38" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000042713974770312658650000000059803219127563681_">
+				<use xlink:href="#SVGID_00000146490144706018774200000014210287336019266749_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000042713974770312658650000000059803219127563681_)">
+				<text transform="matrix(1 0 0 1 349.6958 152.0645)" font-family="'PTSerif-Regular'" font-size="11px">3</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000141449509362608809090000016807661625831780491_" x="385.25" y="135.38" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000150088588004826696270000000569564856855746178_">
+				<use xlink:href="#SVGID_00000141449509362608809090000016807661625831780491_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000150088588004826696270000000569564856855746178_)">
+				<text transform="matrix(1 0 0 1 423.9458 152.0645)" font-family="'PTSerif-Regular'" font-size="11px">4</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000000930912299158469410000000300614755877151929_" x="2.75" y="165.94" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000121260882457696709290000014156276772833353912_">
+				<use xlink:href="#SVGID_00000000930912299158469410000000300614755877151929_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000121260882457696709290000014156276772833353912_)">
+				<text transform="matrix(1 0 0 1 29.9219 185.7314)" font-family="'PTSerif-Bold'" font-size="14px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000030453175457008064380000011400814616023335062_" x="66.5" y="165.94" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000001629033963379792180000009557784798374488963_">
+				<use xlink:href="#SVGID_00000030453175457008064380000011400814616023335062_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000001629033963379792180000009557784798374488963_)">
+				<text transform="matrix(1 0 0 1 94.6958 182.6143)" font-family="'PTSerif-Regular'" font-size="11px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000101821099275472535950000013723589836717526185_" x="130.25" y="165.94" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000026127899357564523210000011962456324560562591_">
+				<use xlink:href="#SVGID_00000101821099275472535950000013723589836717526185_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000026127899357564523210000011962456324560562591_)">
+				<text transform="matrix(1 0 0 1 158.4458 182.6143)" font-family="'PTSerif-Regular'" font-size="11px">7</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000052103558777547894770000005286408636785277338_" x="194" y="165.94" width="75.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000098207651579260127090000004887511666375574435_">
+				<use xlink:href="#SVGID_00000052103558777547894770000005286408636785277338_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000098207651579260127090000004887511666375574435_)">
+				<text transform="matrix(1 0 0 1 228.9458 182.6143)" font-family="'PTSerif-Regular'" font-size="11px">8</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000023278950914767651250000008633624154818134421_" x="271.25" y="165.94" width="48.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000036240780446859740310000011882214599055091072_">
+				<use xlink:href="#SVGID_00000023278950914767651250000008633624154818134421_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000036240780446859740310000011882214599055091072_)">
+				<text transform="matrix(1 0 0 1 292.6958 182.6143)" font-family="'PTSerif-Regular'" font-size="11px">7</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000032610561558650194620000017637251777917042856_" x="321.5" y="165.94" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000098223184387181886030000007151665358611925892_">
+				<use xlink:href="#SVGID_00000032610561558650194620000017637251777917042856_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000098223184387181886030000007151665358611925892_)">
+				<text transform="matrix(1 0 0 1 349.6958 182.6143)" font-family="'PTSerif-Regular'" font-size="11px">5</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000161613239514053912370000017298485338511380146_" x="385.25" y="165.94" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000123425881358494616140000008287025114293020858_">
+				<use xlink:href="#SVGID_00000161613239514053912370000017298485338511380146_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000123425881358494616140000008287025114293020858_)">
+				<text transform="matrix(1 0 0 1 421.0161 182.6143)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+			<g clip-path="url(#SVGID_00000123425881358494616140000008287025114293020858_)">
+				<text transform="matrix(1 0 0 1 426.875 182.6143)" font-family="'PTSerif-Regular'" font-size="11px">0</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000098214316698342960210000001794003158158964906_" x="2.75" y="196.48" width="62.25" height="29.05"/>
+			</defs>
+			<clipPath id="SVGID_00000091717779112450680090000002789744541949054904_">
+				<use xlink:href="#SVGID_00000098214316698342960210000001794003158158964906_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000091717779112450680090000002789744541949054904_)">
+				<text transform="matrix(1 0 0 1 29.9219 216.2812)" font-family="'PTSerif-Bold'" font-size="14px">6</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000004545486973369233050000015073913515370513547_" x="66.5" y="196.48" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000015326864286430263750000015045326570340749959_">
+				<use xlink:href="#SVGID_00000004545486973369233050000015073913515370513547_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000015326864286430263750000015045326570340749959_)">
+				<text transform="matrix(1 0 0 1 94.6958 213.1641)" font-family="'PTSerif-Regular'" font-size="11px">9</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000092440602664365651200000004416063822984327841_" x="130.25" y="196.48" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000173145523453417830840000000726109333604702899_">
+				<use xlink:href="#SVGID_00000092440602664365651200000004416063822984327841_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000173145523453417830840000000726109333604702899_)">
+				<text transform="matrix(1 0 0 1 158.4458 213.1641)" font-family="'PTSerif-Regular'" font-size="11px">6</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000153683972309891648570000012685865334045376142_" x="194" y="196.48" width="75.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000024708968861202842590000009871003475659374010_">
+				<use xlink:href="#SVGID_00000153683972309891648570000012685865334045376142_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000024708968861202842590000009871003475659374010_)">
+				<text transform="matrix(1 0 0 1 226.0161 213.1641)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+			<g clip-path="url(#SVGID_00000024708968861202842590000009871003475659374010_)">
+				<text transform="matrix(1 0 0 1 231.875 213.1641)" font-family="'PTSerif-Regular'" font-size="11px">1</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000162326969421107897550000017264530124623161493_" x="271.25" y="196.48" width="48.75" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000016781569545507335100000010902336886314069420_">
+				<use xlink:href="#SVGID_00000162326969421107897550000017264530124623161493_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000016781569545507335100000010902336886314069420_)">
+				<text transform="matrix(1 0 0 1 292.6958 213.1641)" font-family="'PTSerif-Regular'" font-size="11px">7</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000047026871734768493890000004527440936303169963_" x="321.5" y="196.48" width="62.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000183944587705230009540000006336049874466711698_">
+				<use xlink:href="#SVGID_00000047026871734768493890000004527440936303169963_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000183944587705230009540000006336049874466711698_)">
+				<text transform="matrix(1 0 0 1 349.6958 213.1641)" font-family="'PTSerif-Regular'" font-size="11px">7</text>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)">
+			<defs>
+				<rect id="SVGID_00000182499081512560336670000000000630060281621915_" x="385.25" y="196.48" width="83.25" height="25.07"/>
+			</defs>
+			<clipPath id="SVGID_00000070113134230505320210000012834422334158698624_">
+				<use xlink:href="#SVGID_00000182499081512560336670000000000630060281621915_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_00000070113134230505320210000012834422334158698624_)">
+				<text transform="matrix(1 0 0 1 423.9458 213.1641)" font-family="'PTSerif-Regular'" font-size="11px">7</text>
+			</g>
+		</g>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="2" y1="-309" x2="2" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="66" y1="-309" x2="66" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="130" y1="-309" x2="130" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="193" y1="-309" x2="193" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="270" y1="-309" x2="270" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="321" y1="-309" x2="321" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="385" y1="-309" x2="385" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="469" y1="-309" x2="469" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="-308" x2="470" y2="-308"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="-267" x2="470" y2="-267"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="-236" x2="470" y2="-236"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="-206" x2="470" y2="-206"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="-175" x2="470" y2="-175"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="-145" x2="470" y2="-145"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="-114" x2="470" y2="-114"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="-83" x2="470" y2="-83"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="2" y1="1" x2="2" y2="227"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="66" y1="1" x2="66" y2="227"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="130" y1="1" x2="130" y2="227"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="193" y1="1" x2="193" y2="227"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="271" y1="1" x2="271" y2="227"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="321" y1="1" x2="321" y2="227"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="385" y1="1" x2="385" y2="227"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="469" y1="1" x2="469" y2="227"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="2" x2="470" y2="2"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="43" x2="470" y2="43"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="74" x2="470" y2="74"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="104" x2="470" y2="104"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="135" x2="470" y2="135"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="165" x2="470" y2="165"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="196" x2="470" y2="196"/>
+		
+			<line clip-path="url(#SVGID_00000106856377994606293290000000897840246586097289_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="226" x2="470" y2="226"/>
+	</g>
+</g>
+</svg>
