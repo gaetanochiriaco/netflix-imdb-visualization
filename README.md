@@ -23,5 +23,5 @@
 
 Data Visualization (CdLM Data Science - Università degli studi di Milano Bicocca)
 
-###Deployment della pagina web con report e risultati: 
+### Deployment della pagina web con report e risultati: 
 https://rporcedda.github.io/Netflix-Top10-Quality/
